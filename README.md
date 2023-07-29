@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @serayutaka</h1>
-<h3 align="center">:school:I'm high school student:school:</h3>
+<h1 align="center">Hi 👋, My name is Rachata Pondee</h1>
+<h3 align="center">:school:I'm Freshy at Software Engineering, KMITL:school:</h3>
 
 
 </p>
