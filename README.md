@@ -20,4 +20,4 @@ My name is Rachata Phondi, I'm currently a sophomore in Software Engineering - S
 
 ![serayutaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=serayutaka&show_icons=true&theme=dark)
 
-![serayutaka's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=serayutaka&show_icons=true&theme=dark&hide=makefile,llvm)
+![serayutaka's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=serayutaka&show_icons=true&theme=dark&hide=makefile,llvm,html,css)
